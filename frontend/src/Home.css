@@ -1,0 +1,35 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    padding: 300px;
+  }
+  
+  .input-group {
+    width: auto; /* Let the input determine the width */
+  }
+  
+  .input-group .form-control {
+    width: 20px; /* Set the specific width for the input */
+  }
+  
+  .input-group .btn {
+    width: auto;
+  }
+  
+  .input-group {
+  border: 1px solid grey;
+  height: 50px;
+ }
+
+ .camera{
+  padding: 2px 2px 0 2px;
+}
+
+.input {
+  border: none;
+  outline: none;
+}
