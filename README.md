@@ -1,1 +1,3 @@
 # groceryList
+
+npm run dev
